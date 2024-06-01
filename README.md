@@ -21,9 +21,9 @@ This course contains lots of challenges for CSS, each challenge is a small CSS p
 |      08 | 🎯 Responsive Flexible Card Layout                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300066'>Start Challenge</a> |
 |      09 | 🎯 Westward Journey to Heavenly West                 | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300122'>Start Challenge</a> |
 |      10 | 🎯 Create Visually Appealing Business Card           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300114'>Start Challenge</a> |
-|      11 | 🎯 Simple and Beautiful Home Page Design             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300089'>Start Challenge</a> |
-|      12 | 🎯 Building a Responsive News Website Homepage       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300043'>Start Challenge</a> |
-|      13 | 🎯 Give Your Page a Makeover                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300083'>Start Challenge</a> |
+|      11 | 🎯 Building a Responsive News Website Homepage       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300043'>Start Challenge</a> |
+|      12 | 🎯 Give Your Page a Makeover                         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300083'>Start Challenge</a> |
+|      13 | 🎯 Simple and Beautiful Home Page Design             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300089'>Start Challenge</a> |
 |      14 | 🎯 Responsive Web Design for All Screens             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300110'>Start Challenge</a> |
 |      15 | 🎯 Three-Line Love Letter                            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298234'>Start Challenge</a> |
 |      16 | 🎯 Creative Billboard Design with Wooden Textures    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300045'>Start Challenge</a> |
@@ -32,8 +32,8 @@ This course contains lots of challenges for CSS, each challenge is a small CSS p
 |      19 | 🎯 Create a Swiper Carousel Web App                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299491'>Start Challenge</a> |
 |      20 | 🎯 Create a Pixel Art Animator With React            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299490'>Start Challenge</a> |
 |      21 | 🎯 Depth of Field in Images                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300047'>Start Challenge</a> |
-|      22 | 🎯 User Permission Management System with JavaScript | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299880'>Start Challenge</a> |
-|      23 | 🎯 Create Responsive Modal Boxes                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299872'>Start Challenge</a> |
+|      22 | 🎯 Create Responsive Modal Boxes                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299872'>Start Challenge</a> |
+|      23 | 🎯 User Permission Management System with JavaScript | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299880'>Start Challenge</a> |
 |      24 | 🎯 Slot Machine Application Completion               | ★☆☆          | <a target='_blank' href='https://labex.io/labs/298227'>Start Challenge</a> |
 |      25 | 🎯 Implement Dynamic Sticky Tab Bar                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/299844'>Start Challenge</a> |
 |      26 | 🎯 Implement Atomic Flex Layout with CSS             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/300041'>Start Challenge</a> |
