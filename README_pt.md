@@ -1,0 +1,53 @@
+# Desafios práticos de CSS
+
+## Idiomas
+
+🇨🇳 [简体中文](README_zh.md) 🇯🇵 [日本語](README_ja.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
+
+<div align="center">
+<img width="128px" src="https://file.labex.io/upload/u/1991/oOrIu0qgj62h.png">
+</div>
+
+Aprenda CSS com este Roteiro de Aprendizagem estruturado, ideal para iniciantes em desenvolvimento web. Estes cursos de CSS oferecem um caminho claro para dominar seletores, layout e design responsivo. Desenvolva habilidades práticas através de exercícios interativos, não baseados em vídeo, em um ambiente de testes CSS interativo para criar websites visualmente atraentes e responsivos.
+
+Explore até 28 desafios focados de CSS no LabEx. Cada desafio abre em um ambiente interativo para você praticar habilidades específicas.
+
+|   Índice | Nome                                                                                                                                             | Habilidades                    | Dificuldade   | Prática                                                                                               |
+|----------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|---------------|-------------------------------------------------------------------------------------------------------|
+|       01 | [Implementar Página Web Tipo Portal](https://labex.io/pt/labs/jquery-implement-portal-like-web-page-445669)                                      | Seleção do DOM                 | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/jquery-implement-portal-like-web-page-445669)              |
+|       02 | [Tema com Propriedades Personalizadas](https://labex.io/pt/labs/theme-with-custom-properties-705308)                                             | Propriedades personalizadas    | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/theme-with-custom-properties-705308)                       |
+|       03 | [Suporte a Direções Lógicas](https://labex.io/pt/labs/support-logical-directions-705307)                                                         | Propriedades Lógicas           | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/support-logical-directions-705307)                         |
+|       04 | [Restaurar o Float do Artigo](https://labex.io/pt/labs/restore-article-float-705306)                                                             | Flutuantes                     | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/restore-article-float-705306)                              |
+|       05 | [Respeitar as Preferências de Acessibilidade](https://labex.io/pt/labs/respect-accessibility-preferences-705305)                                 | Preferências de acessibilidade | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/respect-accessibility-preferences-705305)                  |
+|       06 | [Refatorar CSS do Dashboard](https://labex.io/pt/labs/refactor-dashboard-css-705304)                                                             | Arquitetura CSS                | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/refactor-dashboard-css-705304)                             |
+|       07 | [Preparar Estilos de Impressão](https://labex.io/pt/labs/prepare-print-styles-705303)                                                            | Estilos de impressão           | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/prepare-print-styles-705303)                               |
+|       08 | [Organizar Camadas de Cascata (Cascade Layers)](https://labex.io/pt/labs/organize-cascade-layers-705302)                                         | Camadas em Cascata             | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/organize-cascade-layers-705302)                            |
+|       09 | [Aninhar Estilos de Navegação](https://labex.io/pt/labs/nest-navigation-styles-705301)                                                           | CSS Aninhamento                | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/nest-navigation-styles-705301)                             |
+|       10 | [Adicionar Fallbacks de CSS Compatíveis](https://labex.io/pt/labs/add-compatible-css-fallbacks-705300)                                           | Compatibilidade do navegador   | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/add-compatible-css-fallbacks-705300)                       |
+|       11 | [Adaptar o Container do Cartão de Produto](https://labex.io/pt/labs/adapt-product-card-container-705299)                                         | Consultas de contêiner         | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/adapt-product-card-container-705299)                       |
+|       12 | [Construindo Telas Esqueleto Flexíveis](https://labex.io/pt/labs/javascript-building-flexible-skeleton-screens-445776)                           | Manipulação do DOM             | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/javascript-building-flexible-skeleton-screens-445776)      |
+|       13 | [Lista de Produtos com Alternância de Layout](https://labex.io/pt/labs/html-product-list-with-layout-switching-445752)                           | Modelo de Elemento             | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/html-product-list-with-layout-switching-445752)            |
+|       14 | [Construtor de Apresentações HTML Baseado na Web](https://labex.io/pt/labs/html-web-based-html-presentation-builder-445677)                      | Estrutura do Documento         | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/html-web-based-html-presentation-builder-445677)           |
+|       15 | [Carta de Amor de Três Linhas](https://labex.io/pt/labs/css-three-line-love-letter-298234)                                                       | Seletores                      | Iniciante     | [Iniciar Desafio](https://labex.io/pt/labs/css-three-line-love-letter-298234)                         |
+|       16 | [Jornada para o Oeste Celestial](https://labex.io/pt/labs/css-westward-journey-to-heavenly-west-300122)                                          | Animações                      | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/css-westward-journey-to-heavenly-west-300122)              |
+|       17 | [Design Responsivo para Todas as Telas](https://labex.io/pt/labs/css-responsive-web-design-for-all-screens-300110)                               | Flexbox                        | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/css-responsive-web-design-for-all-screens-300110)          |
+|       18 | [Design Responsivo com Gulp](https://labex.io/pt/labs/css-responsive-web-design-with-gulp-300096)                                                | Modos de exibição              | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/css-responsive-web-design-with-gulp-300096)                |
+|       19 | [Arranjo de Assentos de Cinema](https://labex.io/pt/labs/css-movie-theater-seat-arrangement-300091)                                              | Layout Grid                    | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/css-movie-theater-seat-arrangement-300091)                 |
+|       20 | [Design Simples e Elegante para a Página Inicial](https://labex.io/pt/labs/css-simple-and-beautiful-home-page-design-300089)                     | Planos de fundo                | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/css-simple-and-beautiful-home-page-design-300089)          |
+|       21 | [Dê um Novo Visual à Sua Página](https://labex.io/pt/labs/css-give-your-page-a-makeover-300083)                                                  | Bordas e contornos             | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/css-give-your-page-a-makeover-300083)                      |
+|       22 | [Criação de Animação Orbital da Terra com CSS](https://labex.io/pt/labs/css-creating-earth-s-orbital-animation-with-css-300053)                  | Animações                      | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/css-creating-earth-s-orbital-animation-with-css-300053)    |
+|       23 | [Profundidade de Campo em Imagens](https://labex.io/pt/labs/javascript-depth-of-field-in-images-300047)                                          | Manipulação do DOM             | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/javascript-depth-of-field-in-images-300047)                |
+|       24 | [Design Criativo de Outdoor com Texturas de Madeira](https://labex.io/pt/labs/css-creative-billboard-design-with-wooden-textures-300045)         | Planos de fundo                | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/css-creative-billboard-design-with-wooden-textures-300045) |
+|       25 | [Construindo uma Página Inicial de Site de Notícias Responsiva](https://labex.io/pt/labs/css-building-a-responsive-news-website-homepage-300043) | Modelo de caixa                | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/css-building-a-responsive-news-website-homepage-300043)    |
+|       26 | [Implementação de Layout Flex Atômico com CSS](https://labex.io/pt/labs/css-implement-atomic-flex-layout-with-css-300041)                        | Flexbox                        | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/css-implement-atomic-flex-layout-with-css-300041)          |
+|       27 | [Criação de Caixas Modais Responsivas](https://labex.io/pt/labs/javascript-create-responsive-modal-boxes-299872)                                 | Manipulação do DOM             | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/javascript-create-responsive-modal-boxes-299872)           |
+|       28 | [Implementar Barra de Navegação Fixa Dinâmica](https://labex.io/pt/labs/css-implement-dynamic-sticky-tab-bar-299844)                             | Modelo de caixa                | Intermediário | [Iniciar Desafio](https://labex.io/pt/labs/css-implement-dynamic-sticky-tab-bar-299844)               |
+
+[Ver todos os desafios](https://labex.io/pt/learn/css).
+
+## Mais
+
+- 🔗 [Saiba mais sobre CSS no LabEx](https://labex.io/pt/learn/css)
+- 🔗 [Explore mais projetos de programação](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Explore cursos de programação](https://github.com/labex-labs/awesome-programming-courses)
+
